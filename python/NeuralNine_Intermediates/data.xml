@@ -1,0 +1,21 @@
+<group>
+    <person id="1">
+        <name>wyj</name>
+        <sex>woman</sex>
+    </person>
+
+    <person id="2">
+        <name>wyj</name>
+        <sex>man</sex>
+    </person>
+
+    <person id="3">
+        <name>wyj</name>
+        <sex>man</sex>
+    </person>
+
+    <person id="4">
+        <name>wyj</name>
+        <sex>man</sex>
+    </person>
+</group>
